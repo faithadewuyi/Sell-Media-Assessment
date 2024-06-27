@@ -13,7 +13,7 @@ export default function Hero() {
         {/* Hero */}
         <div className="relative z-10 mt-[-300px] md:mt-[-200px] lg:mt-[-160px] xl:mt-[-200px]">
           <h1 className="font-bold text-4xl md:text-6xl lg:text-7xl xl:text-8xl text-center text-textcol w-[90%] md:w-[75%] lg:w-[60%] xl:w-[1121px] mx-auto">
-            Let's create something great together.
+            Let &apos;s create something great together.
           </h1>
         </div>
       </div>

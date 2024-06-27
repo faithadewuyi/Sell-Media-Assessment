@@ -65,7 +65,7 @@ export default function Contact() {
         </div>
         <div className="flex-1">
           <h3 className="font-bold text-4xl text-right">
-            We'd love to hear <br /> from you
+            We &apos;d love to hear <br /> from you
           </h3>
           <form className="max-w-lg mx-auto my-8 p-4  rounded-lg" onSubmit={handleSubmit}>
             <div className="mb-4">
