@@ -8,11 +8,25 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+        'left-image': "url('/shape_1.png')",
+        'right-image': "url('/shape_2.png')",
+
+      },
+
+      
+      colors: {
+        textcol: "#000000",
+        navcol: "#5A6675",
+        col: "#101010",
+        btnblack: "#0B0B0B",
+        secyellow: "#FDCA09",
+        priyellow: "#FEC00A",
       },
     },
   },
-  plugins: [],
+  plugins: [
+   
+
+     
+  ],
 };
